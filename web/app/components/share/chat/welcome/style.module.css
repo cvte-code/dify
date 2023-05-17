@@ -22,8 +22,8 @@
 }
 
 .logo {
-  width: 48px;
-  height: 20px;
-  background: url(./icons/logo.png) center center no-repeat;
+  width: 80px;
+  height: 30px;
+  background: url(./icons/cvte.png) center center no-repeat;
   background-size: contain;
 }
